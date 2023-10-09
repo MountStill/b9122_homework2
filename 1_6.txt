@@ -1,0 +1,554 @@
+
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/themes/custom/un_press_theme/favicon.ico" rel="icon" type="image/vnd.microsoft.icon"/>
+<link href="https://press.un.org/en/2023/sgsm21952.doc.htm" hreflang="en" rel="alternate"/>
+<link href="https://press.un.org/en/2023/sgsm21952.doc.htm" rel="canonical"/>
+<link href="https://press.un.org/en/node/323302" rel="shortlink"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NWVSS4R');</script>
+<title>United Nations Charter ‘A How-To Manual’ on Conflict Resolution, Secretary-General Tells Security Council, Urging Governments to Work Towards Peace in Ukraine | UN Press</title>
+<link href="/sites/default/files/css/css_od0KHlqkeLiEEpLkzfvA3wzd7KvfgzFfCll5kr_NbFA.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_SG2VqkisULL-jcdvCik8Fl-Wjr62fAk8Mk2BiBICszI.css" media="all" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;600;700&amp;display=swap" media="all" rel="stylesheet"/>
+<link href="https://use.fontawesome.com/releases/v5.13.1/css/all.css" media="all" rel="stylesheet"/>
+</head>
+<body class="node-323302 node-type--press">
+<a class="visually-hidden focusable" href="#main-content">
+      Skip to main content
+    </a>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NWVSS4R" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<div class="page">
+<header class="main-header">
+<div class="page-loader"></div>
+<div class="container-fluid brandbar-header fixed-top">
+<div class="container">
+<div class="row justify-content-around align-items-center">
+<div class="col-8 col-sm-3">
+<div class="block block--un-press-theme-branding block--system-branding">
+<a aria-label="" class="navbar-brand d-flex align-items-center block--system-branding" href="/en">
+</a>
+</div>
+<a class="navbar-brand" href="https://www.un.org/en"><i class="home-icon fas fa-home fa-lg"></i> Welcome to the United Nations</a>
+</div>
+<div class="col-4 col-sm-9 d-flex justify-content-end language-switcher">
+<div class="language-switcher-language-url block block--languageswitcher" role="navigation">
+<div class="language-wrapper">
+<button aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle language" class="navbar-toggler language-button d-block d-md-none" data-bs-target=".links.nav" data-bs-toggle="collapse" type="button"><span class="title">Language:</span>
+<span class="navbar-toggler-icon"></span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="container">
+<div class="row justify-content-around align-items-center">
+<div class="col-12 col-lg-9 d-flex branding-top-wrapper">
+<a class="logo navbar-btn pull-left flip" href="https://www.un.org/en" title="United Nations"></a>
+<a class="navbar-brand pull-left flip" href="https://press.un.org/en">Meetings Coverage and Press Releases</a>
+</div>
+<div class="col-12 col-lg-3 justify-content-end search-wrapper d-none d-md-block">
+<div class="views-exposed-form bef-exposed-form needs-validation block block--exposedformsitesearchpage-1" data-drupal-selector="views-exposed-form-sitesearch-page-1">
+<form accept-charset="UTF-8" action="/en/sitesearch" class="form" id="views-exposed-form-sitesearch-page-1" method="get">
+<div class="js-form-item form-item js-form-type-textfield form-item-search-api-fulltext js-form-item-search-api-fulltext form-group">
+<input class="form-textfield form-control" data-drupal-selector="edit-search-api-fulltext" id="edit-search-api-fulltext" maxlength="128" name="search_api_fulltext" size="30" type="text" value=""/>
+<label class="sr-only" for="edit-search-api-fulltext">Search</label>
+<label class="sr-only" for="edit-search-api-fulltext--2">Search</label>
+</div>
+<fieldset class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper mb-3" data-drupal-selector="edit-sort-by" id="edit-sort-by--wrapper">
+<legend class="fieldset-legend m-0">
+      Sort By</legend>
+<div class="fieldset-wrapper">
+<div class="form-radios" id="edit-sort-by"><div class="form-radios">
+<div class="js-form-item form-item js-form-type-radio form-item-sort-by js-form-item-sort-by form-check">
+<input checked="checked" class="form-radio form-check-input" data-drupal-selector="edit-sort-by-field-dated" id="edit-sort-by-field-dated" name="sort_by" type="radio" value="field_dated"/>
+<label class="form-check-label option" for="edit-sort-by-field-dated">Most Recent Entries</label>
+</div>
+<div class="js-form-item form-item js-form-type-radio form-item-sort-by js-form-item-sort-by form-check">
+<input class="form-radio form-check-input" data-drupal-selector="edit-sort-by-search-api-relevance" id="edit-sort-by-search-api-relevance" name="sort_by" type="radio" value="search_api_relevance"/>
+<label class="form-check-label option" for="edit-sort-by-search-api-relevance">Most Relevant Entries</label>
+</div>
+</div>
+</div>
+</div>
+</fieldset>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions">
+<input class="js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit-sitesearch" id="edit-submit-sitesearch" type="submit" value="Search"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-wrapper">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div class="menu-container bg-dark">
+<div class="menu-main">
+<nav class="navbar navbar-expand-lg justify-content-between">
+<button aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target=".navbar-collapse" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse">
+<div class="block block--mainenglishmenu block--system-menu">
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="&lt;front&gt;" href="/en" title="">Home</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/secretary-general" href="/en/content/secretary-general" title="Secretary-General">Secretary-General</a>
+<div class="dropdown-menu">
+<a class="dropdown-item" data-drupal-link-system-path="content/secretary-general" href="/en/content/secretary-general" title="Latest Press Release, Statements etc. from the Secretary General">Latest</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/secretary-general/press-release" href="/en/content/secretary-general/press-release" title="Secretary General Press Releases">Press Releases</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/secretary-general/press-conference" href="/en/content/secretary-general/press-conference" title="Secretary Genral Press Conferences">Press Conferences</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/general-assembly" href="/en/content/general-assembly" title="General Assembly">General Assembly</a>
+<div class="dropdown-menu">
+<a class="dropdown-item" data-drupal-link-system-path="content/general-assembly" href="/en/content/general-assembly" title="">Latest</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/general-assembly/meetings-coverage" href="/en/content/general-assembly/meetings-coverage" title="General Assembly Meetings Coverage">Meetings Coverage</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/general-assembly/press-release" href="/en/content/general-assembly/press-release" title="General Assembly Press Releases">Press Releases</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/security-council" href="/en/content/security-council" title="Security Council">Security Council</a>
+<div class="dropdown-menu">
+<a class="dropdown-item" data-drupal-link-system-path="content/security-council" href="/en/content/security-council" title="">Latest</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/security-council/meetings-coverage" href="/en/content/security-council/meetings-coverage" title="">Meetings Coverage</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/security-council/press-release" href="/en/content/security-council/press-release" title="">Press Releases</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/security-council/press-conference" href="/en/content/security-council/press-conference" title="">Press Conferences</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-drupal-link-system-path="content/economic-and-social-council" href="/en/content/economic-and-social-council" title="Economic and Social Council">Economic and Social Council</a>
+<div class="dropdown-menu">
+<a class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council" href="/en/content/economic-and-social-council" title="">Latest</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council/meetings-coverage" href="/en/content/economic-and-social-council/meetings-coverage" title="">Meetings Coverage</a>
+<a class="dropdown-item" data-drupal-link-system-path="content/economic-and-social-council/press-release" href="/en/content/economic-and-social-council/press-release" title="">Press Releases</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.icj-cij.org/en/press-releases" title=""> International Court of Justice</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<main class="">
+<a id="main-content" tabindex="-1"></a>
+<div class="page__content">
+<div class="container">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block--un-press-theme-content block--system-main">
+<article class="node press press--full" role="article">
+<div class="node__content">
+<div class="panel-display bryant-flipped clearfix">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-9 radix-layouts-content panel-panel">
+<div class="panel-panel-inner">
+<div class="block inline print-sub-head">
+<div class="field field--name-field-doctype field--type-entity-reference field--label-hidden field__item"><a href="/en/press-release" hreflang="en">Press Release</a></div>
+</div>
+<div class="block print-head">
+<div class="field field--name-field-un-bodies field--type-entity-reference field--label-hidden field__item"><ul class="shs clearfix shs-linked"><li><a href="/en/secretary-general" hreflang="en">Secretary-General</a></li><li><a href="/en/statements-and-messages" hreflang="en">Statements and Messages</a></li></ul></div>
+</div>
+</div>
+</div>
+<div class="col-lg-3 radix-layouts-sidebar panel-panel">
+<div>
+</div>
+</div>
+</div>
+</div>
+</div><!-- /.bryant-flipped -->
+<div class="panel-display bartlett clearfix">
+<div class="container-fluid layout">
+<div class="row">
+<div id="printlogo">
+<div class="header-bg"></div>
+<div class="emblem" style="width:200px; float:left;">
+<img alt="United Nations" src="/themes/custom/un_press_theme/assets/images/United_Nations_bw_hq.png"/>
+<h5> United Nations</h5>
+</div>
+</div>
+<div class="col-md-9 mb-2 panel-panel radix-layouts-main-column">
+<div class="row">
+<div class="col-6 radix-layouts-contentcolumn1 panel-panel left-header">
+<div class="panel-panel-inner">
+</div>
+</div>
+<div class="col-6 radix-layouts-contentcolumn2 panel-panel right-header">
+<div class="panel-panel-inner">
+<div class="block">
+<div class="field field--name-field-symbol field--type-string field--label-hidden field__item">SG/SM/21952</div>
+</div>
+<div class="block">
+<div class="field field--name-field-dated field--type-datetime field--label-hidden field__item"><time datetime="2023-09-20T12:00:00Z">20 September 2023</time>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-12 radix-layouts-content panel-panel main-column">
+<div class="panel-panel-inner">
+<div class="block">
+<div class="field field--name-field-display-title field--type-string field--label-hidden field__item"><h1 class="page-header">United Nations Charter ‘A How-To Manual’ on Conflict Resolution, Secretary-General Tells Security Council, Urging Governments to Work Towards Peace in Ukraine</h1>
+</div>
+</div>
+<div class="block">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Following are UN Secretary-General António Guterres’ remarks to the Security Council open debate on “Upholding the Purposes and Principles of the UN Charter through Effective Multilateralism:  Maintenance of Peace and Security of Ukraine”, in New York today:</p><p>The United Nations Charter is our roadmap to a more peaceful world.  The tools and mechanisms founded on the principles of the Charter are a how-to manual to resolve conflict.  Together, our collective efforts over the years have contributed to preventing war on a global scale and saving millions of lives through peacemaking and preventive diplomacy, UN peacekeeping operations, disarmament and non-proliferation efforts, humanitarian and development programmes, and activities to promote human rights.</p><p>Just this week, the SDG Summit agreed on a rescue plan for the Sustainable Development Goals — an essential tool to prevent conflict and crises of all kinds.  Multilateralism works.  It is essential and effective.  But multilateral tools and mechanisms are weakening.  In the face of rising geopolitical tensions and challenges, some are failing while others — frameworks that are urgently needed — do not yet exist.</p><p>The number of conflict-related deaths last year almost doubled.  United Nations peace operations are under unprecedented strain.  Nuclear disarmament is at a virtual standstill.  And there are no adequate global frameworks to address the security threats posed by new technologies.</p><p>I urge Governments to go further and do better to recommit to their obligations under the United Nations Charter, to use the full range of diplomatic tools that it provides, to prioritize the prevention of conflict and crises and to consider the proposals for new frameworks and tools in the New Agenda for Peace.</p><p>Russia’s invasion of Ukraine, in clear violation of the United Nations Charter and international law, is aggravating geopolitical tensions and divisions, threatening regional stability, increasing the nuclear threat, and creating deep fissures in our increasingly multipolar world.  All this comes at a time when cooperation and compromise for multilateral solutions are needed more than ever to tackle challenges from the climate crisis to unprecedented levels of inequality to disruptive technologies.</p><p>The United Nations organs have been clear in condemning the war. The General Assembly overwhelmingly approved one resolution demanding that Russia leave Ukraine, and a second rejecting Russia’s efforts to annex Ukrainian territory.  I have consistently and repeatedly called for a just and sustainable peace in Ukraine, in line with the Charter and international law — for Ukraine, for Russia, and for the world.</p><p>Russia’s invasion was followed by relentless, systematic attacks against civilians and civilian infrastructure and services, including health and education facilities.  The war has killed or injured tens of thousands of civilians, destroyed lives and livelihoods, traumatized a generation of children, torn families and communities apart, devastated the economy and turned vast areas of farmland into deadly minefields.</p><p>Attacks on civilians and civilian infrastructure must stop immediately.  Nearly half of Ukraine’s population — some 18 million people — need humanitarian assistance and protection.  More than 6 million Ukrainians have fled the country.  The United Nations has worked collectively to mitigate the impact on people, both in Ukraine and around the world and to support civilians. Our humanitarian programmes have stepped up, distributing aid to more than 8 million people this year in partnership with over 450 humanitarian organizations, half of them Ukrainian.</p><p>The International Atomic Energy Agency has established a presence at Zaporizhzhia nuclear plant and other major Ukrainian nuclear sites, to monitor safety, security and safeguards.  Together with the International Committee of the Red Cross, we successfully organized the evacuation of civilians from the Azovstal steel plant in Mariupol last year.</p><p>Evidence of shocking and widespread human rights violations has been documented by UN agencies, including conflict-related sexual violence, arbitrary detentions; summary executions — mostly by the Russian Federation — and the forcible transfer of Ukrainian civilians, including children, to territory under Russian control or to the Russian Federation. This documentation is vital for accountability.  Accountability for all human rights violations is crucial, in line with international norms and standards.</p><p>The war contributed to an unprecedented surge in global food prices, threatening millions with hunger and poverty.  Starting in July 2022, we succeeded in mitigating that impact through the Black Sea Initiative and the Memorandum of Understanding between the United Nations and the Russian Federation.</p><p>During its one-year period of operation, the Black Sea Initiative, together with the Memorandum of Understanding on facilitating exports of Russian food products and fertilizers, helped to reduce global food prices by over 23 per cent from the record high reached in March last year. </p><p>The Black Sea Initiative enabled the export of nearly 33 million metric tons of grain and foodstuffs and allowed the World Food Programme to transport 725,000 metric tons of wheat for humanitarian aid to countries including Afghanistan and Somalia.</p><p>Under the Memorandum of Understanding, the United Nations delivered solutions on several of the most challenging areas of trade facilitation for Russian food and fertilizers, with continuous work on the remaining issues.</p><p>We deeply regret that Russia ended its participation in the Black Sea Initiative in July of this year.  And that, immediately upon leaving, Russia launched a bombardment of Ukrainian ports and grain storage facilities on the Black Sea and the Danube River.</p><p>Attacks against terminals and grain stores are unacceptable and such assaults must end.  Civilian shipping in the Black Sea has also been threatened.  Further escalation could instantly shock the markets and destabilize the region.  Volatility and uncertainty have already returned to international grain markets, while supplies from the harvest in Ukraine pile up.</p><p>The bombardment is also undermining our efforts in the implementation of the Memorandum of Understanding with the Russian Federation. It has led many of those whose goodwill is needed, notably in the private sector, to question whether there is any real interest in re-joining the Black Sea Initiative.</p><p>We remain engaged with all parties, aiming to ensure safe and secure exports of grain and fertilizer from Russia and Ukraine. These must be put on a stable footing, without the repeated threat of interruption. I am grateful to the Government of Türkiye for its contributions and urge all Member States to support our efforts.</p><p>The United Nations continues to <a>work towards a just and lasting peace in Ukraine</a>, in line with the Charter, international law, and the resolutions of the General Assembly.  I urge all countries to do their part to prevent further escalation, and to lay the foundations for sustainable peace.  We are fully committed to the sovereignty, independence and territorial integrity of Ukraine, within its internationally recognized borders.</p><p>This war is already causing limitless suffering.  Its continuation risks further perilous escalation.  There is never an alternative to dialogue, diplomacy, and a just peace.  Thank you.</p></div>
+</div>
+<div class="block inline taxonomy-term">
+<div class="field field--name-field-country field--type-entity-reference field--label-hidden field__items">
+<div class="field__item"><a href="/en/ukraine" hreflang="en">Ukraine</a></div>
+</div>
+</div>
+<div class="block inline taxonomy-term">
+<div class="field field--name-field-main-tags field--type-entity-reference field--label-hidden field__items">
+<div class="field__item"><a href="/unga78" hreflang="und">#UNGA78</a></div>
+</div>
+</div>
+<div class="block inline taxonomy-term">
+<div class="field field--name-field-feature-unbody field--type-entity-reference field--label-hidden field__items">
+<div class="field__item"><a href="/en/security-council" hreflang="en">Security Council</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Sidebar -->
+<aside class="col-md-3 mb-2 radix-layouts-sidebar panel-panel">
+<div class="panel-panel-inner">
+<div class="views-element-container block">
+<h2>Highlights</h2>
+<div>
+<div class="view js-view-dom-id-622f9efa0d991bb98162c832b34e458cdce549d5eccf85fdc0c0a8a425e375bb view-highlights">
+<div class="view-content">
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="General Assembly Hall" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/01/ga.jpg?itok=yuMYn2Dm" width="60"/>
+</div>
+
+</div>
+<div class="media-body col-9">
+<a href="/en/2023/ga12487.doc.htm">
+<div class="field field--name-name field--type-string field--label-hidden field__item">Highlights of General Assembly 77th Session</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 21 Sep - 30 Dec 2022</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="UNGA 78 logo" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/09/UNGA78_Highlight.png?itok=BCC6cvVH" width="60"/>
+</div>
+
+</div>
+<div class="media-body col-9">
+<a href="/en/highlights/UNGA78">
+<div class="field field--name-name field--type-string field--label-hidden field__item">High-level meetings of the 78th session of the General Assembly</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 19-26 September 2023</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="Security Council Thumbnail" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/01/MicrosoftTeams-image%20%281%29.jpg?itok=J_z1l6Qz" width="60"/>
+</div>
+
+</div>
+<div class="media-body col-9">
+<a href="/en/2023/sc15172.doc.htm">
+<div class="field field--name-name field--type-string field--label-hidden field__item">Security Council 2022 Round-Up</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 2022</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="2023 Water Conference" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/2023%20Water%20Conference%20Highlight.png?itok=RHCHTXd3" width="60"/>
+</div>
+
+</div>
+<div class="media-body col-9">
+<a href="/en/highlights/WaterAction">
+<div class="field field--name-name field--type-string field--label-hidden field__item">United Nations  Water Conference</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 22-24 March 2023</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="CSW67" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/CSW67%20Highlight_0.png?itok=-Zhf2u0z" width="60"/>
+</div>
+
+</div>
+<div class="media-body col-9">
+<a href="/en/highlights/CSW67">
+<div class="field field--name-name field--type-string field--label-hidden field__item">Sixty-Seventh Session of the Commission on the Status of Women</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">New York, 6-17 March 2023</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-row">
+<div class="media media--type-highlight media--view-mode-highlights-block-item">
+<div class="media row g-2">
+<div class="media-image col-3 align-self-center">
+<div class="field field--name-field-media-image field--type-image field--label-hidden field__item">
+<img alt="LDC5 logo" class="img-fluid" height="60" loading="lazy" src="/sites/default/files/styles/thumbnail_small/public/uploads/2023/03/LDC5%20logo.jpg?itok=DObZ8qFm" width="60"/>
+</div>
+
+</div>
+<div class="media-body col-9">
+<a href="/en/highlights/LDC5">
+<div class="field field--name-name field--type-string field--label-hidden field__item"> Fifth United Nations Conference on the Least Developed Countries</div>
+</a>
+<div class="field field--name-field-date-location field--type-string field--label-hidden field__item">Doha, 5-9 March 2023</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="grey-bg noon-briefing-block">
+<h2>Daily Noon Briefing</h2>
+<div>
+<div class="view js-view-dom-id-c9f9a77437c064a7a48c9bc20fddad0d555ba98235f6327665529e92d0ef10a9 view-home-press">
+<div class="view-content">
+<div class="views-row">
+<div class="views-field views-field-view-node-1"><span class="field-content"><img alt="UN Spokesperson Stéphane Dujarric" class="img-responsive" src="/themes/custom/un_press_theme/assets/images/noon-briefing-image.jpg"/></span></div><div class="views-field views-field-view-node"><span class="field-content"><a href="/en/2023/db231006.doc.htm" hreflang="en"><time datetime="2023-10-06T12:00:00Z">6 October 2023</time>
+</a></span></div><div class="views-field views-field-body"><p class="field-content"><p>The UN Humanitarian Coordinator in Ukraine, Denise Brown, visited Hroza today, less than 24 hours after an attack that killed dozens of civilians — calling it a barbaric consequence of the war that 20 per cent of a community can be wiped out in mere seconds.  The UN is mobilizing humanitarian aid to civilians in the area.</p></p></div>
+</div>
+</div>
+<div class="view-footer">
+<div class="more-link"><a href="https://press.un.org/en/content/noon-briefings">Latest Noon Briefings</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div><!-- /.bartlett -->
+</div>
+</article>
+<div class="field field-name-disclaimer">
+<span class="disclaimer">For information media. Not an official record.</span>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="page__footer-tabs">
+<div class="container">
+<div class="row">
+<div class="block block--resourcesandtools block--system-menu">
+<h2>Resources</h2>
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" href="https://journal.un.org/en" title="Journal">Journal</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/events-and-news" title="Conferences &amp; Events">Conferences &amp; Events</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/media/accreditation/alert.shtml" title="Media Alert">Media Alert</a>
+</li>
+</ul>
+</div>
+<div class="block block--newsandmediaresources block--system-menu">
+<h2>News &amp; Media Resources</h2>
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" href="https://news.un.org/en/" title="Global perspective Human stories">UN News</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://media.un.org/en/webtv" title="Webcast">Webcast</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.unmultimedia.org/photo/" title="Photo">Photo</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.unmultimedia.org/" title="Multimedia">Multimedia</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/media/accreditation/" title="Media Accreditation">Media Accreditation</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.unmultimedia.org/" title="Television">Television</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.unmultimedia.org/tv/unifeed/" title="UNIFEED">UNIFEED</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/sg/spokesperson/" title="Spokesperson for the Secretary-General">Spokesperson for the Secretary-General</a>
+</li>
+</ul>
+</div>
+<div class="block block--quicklinks block--system-menu">
+<h2>Quick Links</h2>
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/general-assembly" href="/en/content/general-assembly" title="General Assembly section link">General Assembly</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/security-council" href="/en/content/security-council" title="Security Council section link">Security Council</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/economic-and-social-council" href="/en/content/economic-and-social-council" title="ECOSOC section link">Economic and Social Council</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/secretary-general" href="/en/content/secretary-general" title="Secretary-General section link">Secretary-General</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/noon-briefings" href="/en/content/noon-briefings" title="Latest Noon Briefing section link">Latest Noon Briefing</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/meetings-coverage" href="/en/content/meetings-coverage" title="Meetings Coverage section link">Meetings Coverage</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/press-release" href="/en/content/press-release" title="Press Releases section link">Press Releases</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="content/press-conference" href="/en/content/press-conference" title="Meetings Coverage section link">Press Conferences</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<footer class="page__footer">
+<div class="container">
+<div class="row d-flex justify-content-between align-items-md-center">
+<div class="col-4 col-md-4 col-lg-5 col-xl-6 footer-brand">
+<a href="https://www.un.org/en" title="Home">
+<span class="site-name">United Nations</span></a>
+</div>
+<div class="col-8 col-md-8 col-lg-7 col-xl-6 justify-content-end">
+<div class="row">
+<div class="col-12 col-md-8 d-flex align-items-md-center menu-social">
+<div class="social-media">
+<a class="footer-link" href="https://www.un.org/en/get-involved/social-media/" target="_blank">Join the conversation:</a>
+<div class="block block--footersocialmenu block--system-menu">
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" href="https://www.facebook.com/unitednations"><i class="fab fa-facebook-square"></i><span class="sr-only">Facebook</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://twitter.com/UNMediaLiaison"><i class="fab fa-twitter"></i><span class="sr-only">Twitter</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw"><i class="fab fa-youtube-square"></i><span class="sr-only">Youtube</span></a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-drupal-link-system-path="rss.xml" href="/en/rss.xml"><i class="fa fa-rss"></i><span class="sr-only">RSS</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-4 d-flex align-items-md-center justify-content-md-end donate-wrapper">
+<div class="donate">
+<a class="btn btn-default btn-reverse dark" href="https://www.un.org/en/about-us/how-to-donate-to-the-un-system/" id="donate_button" role="button" target="_blank">Donate</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<footer class="page__footer-bottom">
+<div class="container">
+<div class="row d-flex justify-content-md-end align-items-md-center">
+<div class="col-12">
+<div class="block block--ungloballinksfootermenu block--system-menu">
+<ul class="nav">
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/en/siteindex/" title="Site Index">A-Z Site Index</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/contact-us-0" title="Help">Contact</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/en/aboutun/copyright/" title="Copyright">Copyright</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/about-us/frequently-asked-questions">FAQ</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/en/aboutun/fraudalert/" title="Fraud Alert">Fraud Alert</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="http://www.un.org/en/aboutun/privacy/" title="Privacy Notice">Privacy Notice</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.un.org/en/aboutun/terms" title="Terms of Use">Terms of Use</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="minimal-share-panel">
+<p class="minimal-share"><a class="facebook" data-ms="facebook" href="https://www.facebook.com/sharer.php?u=https://press.un.org/en/2023/sgsm21952.doc.htm" title="Share this via Facebook">Facebook</a>
+<a class="twitter" data-ms="twitter" href="https://twitter.com/intent/tweet?text=United Nations Charter ‘A How-To Manual’ on Conflict Resolution, Secretary-General Tells Security Council, Urging Governments to Work Towards Peace in Ukraine&amp;url=https://press.un.org/en/2023/sgsm21952.doc.htm" title="Share this via Twitter">Twitter</a>
+<a class="email" data-ms="email" href="mailto:?subject=United Nations Charter ‘A How-To Manual’ on Conflict Resolution, Secretary-General Tells Security Council, Urging Governments to Work Towards Peace in Ukraine&amp;body=https://press.un.org/en/2023/sgsm21952.doc.htm" title="Share this via Email">Email</a>
+<a class="print" data-ms="print" href="" title="Share this via Print">Print</a>
+<a class="linkedin" data-ms="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://press.un.org/en/2023/sgsm21952.doc.htm&amp;title=United Nations Charter ‘A How-To Manual’ on Conflict Resolution, Secretary-General Tells Security Council, Urging Governments to Work Towards Peace in Ukraine" title="Share this via LinkedIn">LinkedIn</a>
+</p>
+</div>
+</div>
+<script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"US","siteName":"UN Press","entityCreated":"1695259458","entityLangcode":"en","entityType":"node","entityBundle":"press","entityId":"323302","entityTitle":"United Nations Charter ‘A How-To Manual’ on Conflict Resolution, Secretary-General Tells Security Council, Urging Governments to Work Towards Peace in Ukraine","field_country":"Ukraine","doc_date":"2023-09-20","doc_type":"Press Release","added_un_bodies":"Security Council","main_tags":"#UNGA78","regions":"","symbol":{"type":"string","value":["SG\/SM\/21952"]},"campaign_id":"","theme":"","un_bodies":"Statements and Messages","userUid":0});</script>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/323302","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","themeUrl":"themes\/custom\/un_press_theme"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0},"fr":{"id":"fr","name":"French","direction":"ltr","weight":1}}},"minimalShare":{"sizes":{"linkedin":{"width":520,"height":570},"twitter":{"width":600,"height":260},"facebook":{"width":600,"height":500}}},"ajaxTrustedUrl":{"\/en\/sitesearch":true},"user":{"uid":0,"permissionsHash":"d429094e8101c7fbbf66cf85f7616354d19f2337c642528ef74c3443208d6269"}}</script>
+<script src="/sites/default/files/js/js_juxljz0RQrYzNbLYGedStiDdGc6bDfgJra9t5d5V9b8.js"></script>
+</body>
+</html>

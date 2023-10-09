@@ -1,0 +1,1324 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>MEPs vote to strengthen EU defence industry through common procurement | News | European Parliament</title>
+<meta content="MEPs vote to strengthen EU defence industry through common procurement | News | European Parliament" property="og:title"/>
+<meta content="MEPs vote to strengthen EU defence industry through common procurement | News | European Parliament" property="twitter:title"/>
+<meta content="MEPs vote to strengthen EU defence industry through common procurement | News | European Parliament" itemprop="name"/>
+<meta content="MEPs backed the European Defence Industry Reinforcement through common Procurement Act (EDIRPA) on Tuesday." name="description"/>
+<meta content="MEPs backed the European Defence Industry Reinforcement through common Procurement Act (EDIRPA) on Tuesday." property="og:description"/>
+<meta content="MEPs backed the European Defence Industry Reinforcement through common Procurement Act (EDIRPA) on Tuesday." property="twitter:description"/>
+<meta content="MEPs backed the European Defence Industry Reinforcement through common Procurement Act (EDIRPA) on Tuesday." itemprop="description"/>
+<meta charset="utf-8"/>
+<meta content="12-09-2023" name="available"/>
+<meta content="12-09-2023" property="article:published_time"/>
+<meta content="en" name="language"/>
+<meta content="news" name="planet"/>
+<link href="https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" rel="canonical"/>
+<meta content="https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" property="og:url"/>
+<meta content="index, follow, noodp, noydir, notranslate, noarchive" name="robots"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.europarl.europa.eu/resources/library/images/20230912PHT04966/20230912PHT04966_original.jpg" property="og:image"/>
+<meta content="https://www.europarl.europa.eu/resources/library/images/20230912PHT04966/20230912PHT04966_original.jpg" property="twitter:image"/>
+<meta content="https://www.europarl.europa.eu/resources/library/images/20230912PHT04966/20230912PHT04966_original.jpg" itemprop="image"/>
+<meta content="productType:PRESS_RELEASE,com:SEDE,plenaryDate:11-09-2023" name="keywords"/>
+<meta content="productSubType:PLENARY_SESSION" name="routes"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/news/css/atomicdesign.css" rel="stylesheet" type="text/css"/>
+<link href="/news/css/structure.css" rel="stylesheet" type="text/css"/>
+<link href="/news/css/header-ep.css" rel="stylesheet" type="text/css"/>
+<link href="/news/css/components-ep.css" rel="stylesheet" type="text/css"/>
+<noscript>
+<link href="/news/css/header-ep-nojs.css" rel="stylesheet" type="text/css"/>
+</noscript>
+<script data-tracker-name="ATInternet" data-value="/website/webanalytics/ati-news.js" defer="" src="/website/privacy-policy/privacy-policy.js" type="text/javascript"></script>
+<script>
+        /*<![CDATA[*/
+        // AMD define stub: delay handling of define calls until our amd dependency
+        // manager has been loaded (from behaviour.js)
+
+        var __amd$delayedDefines = []
+        function define() {
+            var args = Array.prototype.slice.call(arguments)
+            window.__amd$delayedDefines.push(function () {
+                window.define.apply(window, args)
+            })
+        }
+        define.amd = {}
+        define('eng-scripts',
+            {
+                'weekly-agenda-widget': { url: "\/news\/js\/weekly-agenda-widget.js", fetched: false }
+                , 'weekly-agenda': { url: "\/news\/js\/weekly-agenda.js", fetched: false }
+                , 'week-selector': { url: "\/news\/js\/week-selector.js", fetched: false }
+                , 'tst-continuous-loading': { url: "\/news\/js\/tst-continuous-loading.js", fetched: false }
+                , 'slideshow': { url: "\/news\/js\/slideshow.js", fetched: false }
+                , 'load-more': { url: "\/news\/js\/load-more.js", fetched: false }
+                , 'infographic': { url: "\/news\/js\/infographic.js", fetched: false }
+                , 'filter-form': { url: "\/news\/js\/filter-form.js", fetched: false }
+                , 'datepicker': { url: "\/news\/js\/datepicker.js", fetched: false }
+                , 'video-player': { url: "\/news\/js\/video-player.js", fetched: false }
+                , 'election-results': { url: "\/website\/election-results\/js\/ep_electionresults_app.js", fetched: false }
+                , 'ec-sml-loader': { url: "\/news\/js\/ec-sml-loader.js", fetched: false }
+                , 'quiz-loader': { url: "https:\/\/quizweb.europarl.europa.eu\/embed\/js\/ep-ee19-quiz.js", fetched: false }
+                , 'timeline': { url: "\/news\/js\/timeline.js", fetched: false }
+            }
+        )
+        define( 'global', { document: window.document, window: window } )
+        /*]]>*/
+    </script>
+<script async="async" src="/news/js/behaviour.js" type="text/javascript"></script>
+<script src="/news/js/bundle.js" type="text/javascript"></script>
+<script type="text/javascript">
+        define('change-language', [ 'behaviour.js'], function moduleFactory() {
+            Select.updateparams('language-select', {cb_beforesubmit: function() {
+                window.location.href = document.getElementById('language-select').value;
+                return false;
+            }})
+        })
+    </script>
+<noscript>
+<link href="/news/css/no-js.css" rel="stylesheet" type="text/css"/>
+</noscript>
+</head>
+<body lang="en">
+<input id="dev_product_url" type="hidden" value="https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement"/>
+<div id="website">
+<div class="ep-header" id="website-header">
+<!-- COMPOSANT "WAI SHORTCUTS" -->
+<nav aria-label="Shortcuts" class="wai-shortcut">
+<ul id="waimenu">
+<li><a href="#website-body"><span class="label">Access to page content (press "Enter")</span></a></li>
+<li><a href="#language-select"><span class="label">Direct access to language menu (press "Enter")</span></a></li>
+<li><a href="#search-field"><span class="label">Direct access to search menu (press "Enter")</span></a></li>
+</ul>
+</nav>
+<!-- START OF REFACTORING -->
+<!-- COMPOSANT "TOOLBAR" TOP -->
+<div class="toolbar toolbar_top">
+<div class="toolbar-grid m-column no-padding-m">
+<!-- COMPOSANT "LANGUAGE MENU" -->
+<div class="dropdown-lang" id="language-select">
+<!-- Select language no js -->
+<noscript>
+<div class="dropdown">
+<div class="dropdown-lang no-js">
+<div class="wrapper-dropdown-lang">
+<form action="/news/changeLanguage" aria-label="Navigation" method="get">
+<div class="select">
+<label class="sr-only" for="change_language_nojs">Change the navigation language</label>
+<select id="change_language_nojs" name="url" required="">
+<!-- // TODO : values need to be set by -->
+<option lang="bg" value="/news/bg/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">BG - български</option>
+<option lang="es" value="/news/es/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">ES - español</option>
+<option lang="cs" value="/news/cs/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">CS - čeština</option>
+<option lang="da" value="/news/da/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">DA - dansk</option>
+<option lang="de" value="/news/de/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">DE - Deutsch</option>
+<option lang="et" value="/news/et/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">ET - eesti keel</option>
+<option lang="el" value="/news/el/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">EL - ελληνικά</option>
+<option lang="en" value="/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">EN - English</option>
+<option lang="fr" value="/news/fr/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">FR - français</option>
+<option lang="ga" value="/news/ga/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">GA - Gaeilge</option>
+<option lang="hr" value="/news/hr/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">HR - hrvatski</option>
+<option lang="it" value="/news/it/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">IT - italiano</option>
+<option lang="lv" value="/news/lv/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">LV - latviešu valoda</option>
+<option lang="lt" value="/news/lt/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">LT - lietuvių kalba</option>
+<option lang="hu" value="/news/hu/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">HU - magyar</option>
+<option lang="mt" value="/news/mt/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">MT - Malti</option>
+<option lang="nl" value="/news/nl/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">NL - Nederlands</option>
+<option lang="pl" value="/news/pl/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">PL - polski</option>
+<option lang="pt" value="/news/pt/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">PT - português</option>
+<option lang="ro" value="/news/ro/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">RO - română</option>
+<option lang="sk" value="/news/sk/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">SK - slovenčina</option>
+<option lang="sl" value="/news/sl/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">SL - slovenščina</option>
+<option lang="fi" value="/news/fi/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">FI - suomi</option>
+<option lang="sv" value="/news/sv/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement">SV - svenska</option>
+</select>
+</div>
+<button class="btn" type="submit">Change the navigation language</button>
+</form>
+</div>
+</div>
+</div>
+</noscript>
+<!-- End Select language no js -->
+<nav aria-label="Change the navigation language" class="custom-select dropdown">
+<button aria-expanded="false" aria-haspopup="true" class="btn lang_select" id="dropdown" type="submit">EN - English</button>
+<ul class="no-display menu-content">
+<li>
+<a href="/news/bg/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="bg" lang="bg">
+<span class="wrapper-label"><span class="label">BG - български</span></span>
+</a>
+</li>
+<li>
+<a href="/news/es/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="es" lang="es">
+<span class="wrapper-label"><span class="label">ES - español</span></span>
+</a>
+</li>
+<li>
+<a href="/news/cs/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="cs" lang="cs">
+<span class="wrapper-label"><span class="label">CS - čeština</span></span>
+</a>
+</li>
+<li>
+<a href="/news/da/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="da" lang="da">
+<span class="wrapper-label"><span class="label">DA - dansk</span></span>
+</a>
+</li>
+<li>
+<a href="/news/de/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="de" lang="de">
+<span class="wrapper-label"><span class="label">DE - Deutsch</span></span>
+</a>
+</li>
+<li>
+<a href="/news/et/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="et" lang="et">
+<span class="wrapper-label"><span class="label">ET - eesti keel</span></span>
+</a>
+</li>
+<li>
+<a href="/news/el/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="el" lang="el">
+<span class="wrapper-label"><span class="label">EL - ελληνικά</span></span>
+</a>
+</li>
+<li aria-current="true" class="current">
+<a href="/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="en" lang="en">
+<span class="wrapper-label"><span class="label">EN - English</span></span>
+</a>
+</li>
+<li>
+<a href="/news/fr/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="fr" lang="fr">
+<span class="wrapper-label"><span class="label">FR - français</span></span>
+</a>
+</li>
+<li>
+<a href="/news/ga/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="ga" lang="ga">
+<span class="wrapper-label"><span class="label">GA - Gaeilge</span></span>
+</a>
+</li>
+<li>
+<a href="/news/hr/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="hr" lang="hr">
+<span class="wrapper-label"><span class="label">HR - hrvatski</span></span>
+</a>
+</li>
+<li>
+<a href="/news/it/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="it" lang="it">
+<span class="wrapper-label"><span class="label">IT - italiano</span></span>
+</a>
+</li>
+<li>
+<a href="/news/lv/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="lv" lang="lv">
+<span class="wrapper-label"><span class="label">LV - latviešu valoda</span></span>
+</a>
+</li>
+<li>
+<a href="/news/lt/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="lt" lang="lt">
+<span class="wrapper-label"><span class="label">LT - lietuvių kalba</span></span>
+</a>
+</li>
+<li>
+<a href="/news/hu/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="hu" lang="hu">
+<span class="wrapper-label"><span class="label">HU - magyar</span></span>
+</a>
+</li>
+<li>
+<a href="/news/mt/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="mt" lang="mt">
+<span class="wrapper-label"><span class="label">MT - Malti</span></span>
+</a>
+</li>
+<li>
+<a href="/news/nl/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="nl" lang="nl">
+<span class="wrapper-label"><span class="label">NL - Nederlands</span></span>
+</a>
+</li>
+<li>
+<a href="/news/pl/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="pl" lang="pl">
+<span class="wrapper-label"><span class="label">PL - polski</span></span>
+</a>
+</li>
+<li>
+<a href="/news/pt/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="pt" lang="pt">
+<span class="wrapper-label"><span class="label">PT - português</span></span>
+</a>
+</li>
+<li>
+<a href="/news/ro/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="ro" lang="ro">
+<span class="wrapper-label"><span class="label">RO - română</span></span>
+</a>
+</li>
+<li>
+<a href="/news/sk/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="sk" lang="sk">
+<span class="wrapper-label"><span class="label">SK - slovenčina</span></span>
+</a>
+</li>
+<li>
+<a href="/news/sl/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="sl" lang="sl">
+<span class="wrapper-label"><span class="label">SL - slovenščina</span></span>
+</a>
+</li>
+<li>
+<a href="/news/fi/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="fi" lang="fi">
+<span class="wrapper-label"><span class="label">FI - suomi</span></span>
+</a>
+</li>
+<li>
+<a href="/news/sv/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement" hreflang="sv" lang="sv">
+<span class="wrapper-label"><span class="label">SV - svenska</span></span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<!-- COMPOSANT "OTHER TOOLS LINKS" -->
+<nav aria-label="Navigation" class="navigation-menu nav-top">
+<div class="menu-container">
+<div class="focusable">
+<!--href ?  -->
+<a aria-expanded="false" aria-haspopup="true" class="btn-open-menu" role="button" tabindex="0">View other websites</a>
+<ul aria-label="View menu: News" class="menu-level-0">
+<li class="level-0">
+<a class="" href="/news/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">News</span>
+</span>
+</a>
+</li>
+<li class="level-0">
+<a class="" href="/meps/en/home">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">MEPs</span>
+</span>
+</a>
+</li>
+<li class="level-0">
+<a class="" href="/about-parliament/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">About Parliament</span>
+</span>
+</a>
+</li>
+<li class="level-0">
+<a class="" href="/plenary/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Plenary</span>
+</span>
+</a>
+</li>
+<li class="level-0">
+<a class="" href="/committees/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Committees</span>
+</span>
+</a>
+</li>
+<li class="level-0 nopadding-right">
+<a class="" href="/delegations/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Delegations</span>
+</span>
+</a>
+</li>
+<li class="level-0 has-menu-dropdown">
+<a aria-expanded="false" aria-haspopup="true" class="icon-arrow-dropdown" role="button" tabindex="0">
+<span class="content">
+<span class="sr-only">View submenu:</span>
+<span class="label">Other websites</span>
+</span>
+</a>
+<ul class="menu-level-1">
+<li class="level-1">
+<a href="https://multimedia.europarl.europa.eu/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Multimedia Centre</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/the-president/en/">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">President’s website</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/the-secretary-general/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Secretariat-general</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/thinktank/en/home.html">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Think tank</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="https://www.epnewshub.eu">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">EP Newshub</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/at-your-service/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">At your service</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/visiting/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Visits</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/legislative-train">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Legislative train</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/contracts-and-grants/en/">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Contracts and Grants</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/RegistreWeb/home/welcome.htm?language=en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Register</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="https://data.europarl.europa.eu/en/home">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Open Data Portal</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<!--<input class="menu-btn" type="checkbox" id="menu-btn-navigationtop" aria-label="Click to open the other websites menu" />
+                        <label class="menu-icon" for="menu-btn-navigationtop">View other websites</label>-->
+</div>
+</nav>
+</div>
+</div>
+<!-- LOGO + TITLE -->
+<header class="header">
+<div class="header-wrapper no-padding">
+<!--<a class="grid" href="https://www.europarl.europa.eu/portal/en">
+                  <span class="sr-only">Go back to the Europarl portal</span>
+                  <img src="../europarl/img/ep-logo.svg" alt="" class="ep_logo" />
+                </a>-->
+<div class="grid">
+<span class="title-wrapper">
+<a class="title" href="/news/en"><span class="labeltxt">News</span></a>
+<a class="subtitle" href="/portal/en">
+<span class="labeltxt">European Parliament</span>
+<span class="logo"></span>
+</a>
+</span>
+</div>
+</div>
+</header>
+<!-- COMPOSANT "TOOLBAR" BOTTOM -->
+<div class="toolbar toolbar_bottom sticky">
+<div class="toolbar-grid no-padding flex-end">
+<!-- COMPOSANT "NAVIGATION MENU" -->
+<nav aria-label="Main navigation" class="navigation-menu nav-main">
+<div class="menu-container">
+<!--<input class="menu-btn" type="checkbox" id="menu-btn-navigationmain" aria-label="Click to open the main menu" />
+                        <label class="menu-icon" for="menu-btn-navigationmain"><span class="nav-icon"></span></label>-->
+<a class="menu-icon" role="button" tabindex="0">
+<span class="label">Menu</span>
+<span class="nav-icon"></span>
+</a>
+<ul class="menu-level-0">
+<li class="level-0 has-menu-dropdown">
+<a aria-haspopup="true" class="icon-arrow-dropdown" role="button" tabindex="0">
+<span class="content">
+<span class="label">Headlines</span>
+<span class="current-element"></span>
+</span>
+</a>
+<ul aria-label="View submenu" class="menu-level-1">
+<li class="level-1">
+<a href="/news/en">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Homepage</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/news/en/headlines/eu-affairs">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">EU affairs</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/news/en/headlines/world">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">World</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/news/en/headlines/economy">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Economy</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/news/en/headlines/society">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Society</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/news/en/headlines/security">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Security</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="level-0 current has-menu-dropdown">
+<a aria-current="true" aria-haspopup="true" class="icon-arrow-dropdown" role="button" tabindex="0">
+<span class="content">
+<span class="label">Press room</span>
+<span class="current-element"></span>
+</span>
+</a>
+<ul aria-label="View submenu" class="menu-level-1">
+<li class="level-1">
+<a href="/news/en/press-room">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Homepage</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="https://www.europarl.europa.eu/news/en/press-room/accreditation">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Accreditation</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="https://www.europarl.europa.eu/news/en/press-room/press-tool-kit">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Press Tool Kit</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/news/en/press-room/contacts">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Contacts</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="level-0 has-menu-dropdown">
+<a aria-haspopup="true" class="icon-arrow-dropdown" role="button" tabindex="0">
+<span class="content">
+<span class="label">Agenda</span>
+<span class="current-element"></span>
+</span>
+</a>
+<ul aria-label="View submenu" class="menu-level-1">
+<li class="level-1">
+<a href="/news/en/agenda">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Highlights</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/news/en/agenda/weekly-agenda">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Weekly agenda</span>
+</span>
+</a>
+</li>
+<li class="level-1">
+<a href="/news/en/agenda/briefing">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Briefing</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="level-0">
+<a aria-haspopup="true" class="" href="/news/en/faq">
+<span class="content">
+<span class="label">FAQ</span>
+<span class="current-element"></span>
+</span>
+</a>
+</li>
+<li class="level-0 current">
+<a href="/news/en/press-room/press-tool-kit">
+<span class="content">
+<span class="sr-only">Go to the page</span>
+<span class="label">Election Press Kit</span>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<!-- COMPOSANT "SEARCH MENU" -->
+<nav aria-label="Search" class="search-global-form">
+<!-- Add class 'active' to change the style of the <a> -->
+<a aria-expanded="false" aria-haspopup="true" class="search-icon" href="#">
+<span class="sr-only">Access to search field</span>
+<span class="icon"></span>
+</a>
+</nav>
+<!-- Remove class 'posinit' to display the input search -->
+<form action="/news/en/search" aria-label="Search" class="form-field-search" id="search" method="get" role="search">
+<div class="field-wrapper">
+<div class="field">
+<input aria-label="Please fill out this field" class="ep_field" id="search-field" name="searchQuery" placeholder="Search" required="" title="Please fill out this field" type="text" value=""/>
+<button aria-label="Launch the search" class="btn-send active" disabled="" type="submit">
+<span class="sr-only">Launch the search</span>
+<span class="icon"> </span>
+</button>
+</div>
+</div>
+</form>
+<!-- TITLE ON SCROLL -->
+<span aria-hidden="true" class="title-toolbar"><span class="label">European Parliament</span></span>
+</div>
+</div>
+<!-- COMPOSANT "BREADCRUMB" -->
+<nav aria-label="You are here:" class="ep_breadcrumb" id="website-breadcrumb">
+<div class="ep_fulllist">
+<span class="ep_mandatory">
+<a class="ep_item" href="/news/en/press-room">
+<span class="ep_hidden">Go back to page : Press room</span>
+<span class="ep_name">Press room</span>
+<span class="ep_icon"> </span></a>
+<span class="ep_separator"></span>
+</span>
+<span aria-current="page" class="ep_mandatory">
+<span class="ep_item">
+<span class="ep_hidden">Current page::</span>
+<span class="ep_name">MEPs vote to strengthen EU defence industry through common procurement</span>
+<span class="ep_icon"> </span>
+</span>
+</span>
+</div>
+<div class="ep_previouslink">
+<a class="ep_item" href="/news/en/press-room">
+<span class="ep_hidden">Go back to page : Press room</span>
+<span class="ep_name">Press room</span>
+<span class="ep_icon"> </span></a>
+<span class="ep_separator"></span>
+</div>
+</nav>
+</div>
+<!-- END OF REFACTORING -->
+<article id="website-body" role="main">
+<input id="webanalytic-id_chapters" type="hidden" value="press-room"/>
+<input id="webanalytic-id_sub-chapters" type="hidden" value="pressroom"/>
+<input id="webanalytic-id_sub-sub-chapters" type="hidden" value="external-relations~security-and-defence"/>
+<input id="webanalytic-id_pages" type="hidden" value="defence-industry-procurement-edirpa"/>
+<input id="webanalytic-ep_bodies" type="hidden" value="plenary~11.09.2023~14.09.2023/committees~sede"/>
+<input id="webanalytics-topics_by_weeks" type="hidden" value=""/>
+<input id="webanalytics-priority_category" type="hidden" value=""/>
+<input id="webanalytics-priority_wordlink" type="hidden" value=""/>
+<input id="webanalytics-reference" type="hidden" value=""/>
+<input id="webanalytics-language" type="hidden" value=""/>
+<div class="ep_gridrow ep-o_product">
+<div class="ep_gridrow-content">
+<div class="ep_gridcolumn" data-view1020="2" data-view1200="2" data-view320="0" data-view480="0" data-view640="1" data-view750="1">
+<div class="ep_gridcolumn-content"> </div>
+</div>
+<div class="ep_gridcolumn ep-m_header" data-view1020="6" data-view1200="6" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridcolumn-content">
+<div class="ep-a_heading ep-layout_level1">
+<h1 class="ep_title">
+<div class="ep-p_text"><span class="ep_name">MEPs vote to strengthen EU defence industry through common procurement</span><span class="ep_icon"> </span></div>
+</h1>
+<div class="ep_subtitle">
+<div class="ep-p_text ep-layout_category"><span class="ep_name">Press Releases</span><span class="ep_icon"> </span></div>
+<div class="ep-p_text ep-layout_contenttype ep-layout_plenary">
+<a href="/news/en/press-room?contentType=plenary">
+<span class="ep_name">Plenary session</span><span class="ep_icon"> </span>
+</a>
+</div>
+<div class="ep-p_text ep-layout_contenttype ep-layout_committee">
+<a href="/news/en/press-room?contentType=committee&amp;keywordValue=SEDE">
+<span class="ep_name"><abbr title="Security and Defence">SEDE</abbr></span><span class="ep_icon"> </span>
+</a>
+</div>
+<div class="ep-p_text ep-layout_date">
+<span class="ep_name">
+<time datetime="2023-09-12T12:32:00" itemprop="datePublished">12-09-2023 - 12:32</time>
+</span><span class="ep_icon"> </span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ep_gridrow ep-o_product">
+<div class="ep_gridrow-content">
+<div class="ep_gridcolumn" data-view1020="1" data-view1200="1" data-view320="0" data-view480="0" data-view640="0" data-view750="0">
+<div class="ep_gridcolumn-content"> </div>
+</div>
+<div class="ep_gridcolumn ep-m_product ep-layout_followingscroll" data-view1020="1" data-view1200="1" data-view320="0" data-view480="0" data-view640="1" data-view750="1">
+<div class="ep_gridcolumn-content">
+<div class="ep-a_share ep-layout_socialnetwok">
+<div>
+<div class="ep_share">
+<h2 class="ep_title">
+<div class="ep-p_text"><span class="ep_name">Share this page:</span><span class="ep_icon"> </span></div>
+</h2>
+<ul>
+<li>
+<div class="ep-p_text ep-layout_facebook">
+<a href="https://www.facebook.com/share.php?u=https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement?xtor%3DAD-78-%5BSocial_share_buttons%5D-%5Bfacebook%5D-%5Ben%5D-%5Bnews%5D-%5Bpressroom%5D-%5Bdefence-industry-procurement-edirpa%5D-" target="_blank" title="Share this page on Facebook"><span class="ep_name">Facebook</span><span class="ep_icon"> </span></a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_twitter">
+<a href="https://twitter.com/intent/tweet?text=MEPs%20vote%20to%20strengthen%20EU%20defence%20industry%20through%20common%20procurement&amp;url=https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement?xtor%3DAD-78-%5BSocial_share_buttons%5D-%5Btwitter%5D-%5Ben%5D-%5Bnews%5D-%5Bpressroom%5D-%5Bdefence-industry-procurement-edirpa%5D-&amp;via=Europarl_EN" target="_blank" title="Share this page on Twitter"><span class="ep_name">Twitter</span><span class="ep_icon"> </span></a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_linkedin">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement?xtor%3DAD-78-%5BSocial_share_buttons%5D-%5Blinkedin%5D-%5Ben%5D-%5Bnews%5D-%5Bpressroom%5D-%5Bdefence-industry-procurement-edirpa%5D%26&amp;title=European%20Parliament&amp;summary=&amp;source=" target="_blank" title="Share this page on LinkedIn"><span class="ep_name">LinkedIn</span><span class="ep_icon"> </span></a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_whatsapp">
+<a href="https://api.whatsapp.com/send?text=https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement?xtor%3DAD-78-%5BSocial_share_buttons%5D-%5Bwhatsapp%5D-%5Ben%5D-%5Bnews%5D-%5Bpressroom%5D-%5Bdefence-industry-procurement-edirpa%5D%26" target="_blank" title="Share this page on WhatsApp"><span class="ep_name">WhatsApp</span><span class="ep_icon"> </span></a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ep_gridcolumn" data-view1020="6" data-view1200="6" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridrow">
+<div class="ep_gridrow-content">
+<!-- Fact list -->
+<div class="ep_gridcolumn ep-m_product" data-view1020="6" data-view1200="6" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridcolumn-content">
+<div class="ep-a_facts">
+<div>
+<ul class="ep_list">
+<li><div class="ep-p_text"><span class="ep_name">A €300 million budget until the end of 2025 to enhance defence capabilities</span><span class="ep_icon"> </span></div></li>
+<li><div class="ep-p_text"><span class="ep_name">There should be at least three EU member states in the consortium to benefit from EU funding</span><span class="ep_icon"> </span></div></li>
+<li><div class="ep-p_text"><span class="ep_name">EU budget will finance the procurement up to 15% or 20% if SMEs or midcaps are involved</span><span class="ep_icon"> </span></div></li>
+<li><div class="ep-p_text"><span class="ep_name">Instrument will allow more support to Ukraine and Moldova</span><span class="ep_icon"> </span></div></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="ep_gridcolumn ep-m_product" data-view1020="6" data-view1200="6" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridcolumn-content">
+<div class="ep-a_media">
+<figure>
+<div class="ep_media ep-layout_image">
+<div class="ep-p_image ep-layout_original">
+<a href="https://www.europarl.europa.eu/resources/library/images/20230912PHT04966/20230912PHT04966_original.jpg" target="_blank" title="Open in a new window">
+<div class="ep_image">
+<img alt="© Adobe Stock/Bumble D" src="https://www.europarl.europa.eu/resources/library/images/20230912PHT04966/20230912PHT04966-cl.jpg"/>
+<span class="ep_small" style="background-image:url(https://www.europarl.europa.eu/resources/library/images/20230912PHT04966/20230912PHT04966-cs.jpg);"> </span>
+<span class="ep_medium" style="background-image:url(https://www.europarl.europa.eu/resources/library/images/20230912PHT04966/20230912PHT04966-cm.jpg);"> </span>
+<span class="ep_large" style="background-image:url(https://www.europarl.europa.eu/resources/library/images/20230912PHT04966/20230912PHT04966-cl.jpg);"> </span>
+<span class="ep_icon"> </span>
+</div>
+</a>
+</div>
+</div>
+<figcaption class="ep_text">
+<div class="ep-p_text ep-layout_legend">
+<span class="ep_name">© Adobe Stock/Bumble D</span>
+<span class="ep_icon"> </span>
+</div>
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="ep_gridcolumn ep-m_product" data-view1020="6" data-view1200="6" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridcolumn-content">
+<div class="ep-a_text ep-layout_chapo">
+<p>MEPs backed the European Defence Industry Reinforcement through common Procurement Act (EDIRPA) on Tuesday.</p>
+</div>
+</div>
+</div>
+<!-- Text content -->
+<div class="ep_gridcolumn ep-m_product" data-view1020="6" data-view1200="6" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridcolumn-content">
+<div class="ep-a_text"><p class="ep-wysiwig_paragraph">The regulation, <a href="https://www.europarl.europa.eu/news/en/press-room/20230626IPR00817/eu-defence-deal-on-joint-procurement-of-defence-products" rel="noopener" target="_blank">already agreed with the Council on 27 June</a> 2023, establishes a short-term instrument for the reinforcement of the European defence industry through common procurement until 31 December 2025. It will help member states to fill their most urgent and critical defence needs, which have been exacerbated by transfers of defence products to Ukraine, in a voluntary and collaborative way.<br/><br/><strong>At least three EU countries per consortium and EU-based contractors<br/><br/></strong>A 300 million euros budget will finance the instrument. Joint purchases will have to involve at least three member states, and should be open to the participation of members of the <a href="https://www.efta.int/" rel="noopener" target="_blank">European Free trade Association</a> which are members of the <a href="https://www.efta.int/eea" rel="noopener" target="_blank">European Economic Area</a> (associated countries).<br/><br/>Contractors and subcontractors must be established in the EU or in an associated country, and not be subject to control by a non-associated third country or entity. The cost of components originating in the EU or associated countries shall not be lower than 65% of the estimated value of the end product.<br/><br/><strong>Bonuses for projects supporting Ukraine, Moldova and SMEs<br/><br/></strong>The EU financial contribution to each action will be capped at 15% of the estimated value of the common procurement contract per consortium. This ceiling may be raised to 20% if Ukraine or Moldova are recipients of additional quantities of defence products, or if at least 15% of the estimated value of the common procurement contract is allocated to SMEs or mid-capitalisation companies (those with a medium market capitalisation, known as midcaps), as contractors or subcontractors.<br/><br/><strong>Quotes<br/><br/></strong>“Today's vote marks a historic moment for EU defence, establishing the first EU instrument for joint procurement by member states. It will help them to refill their stocks, increase interoperability among our armed forces, strengthen our industry and contribute to our unwavering support for Ukraine. However, facing a historical crisis, EDIRPA can only be a starting point for a far more ambitious common defence agenda,” co-rapporteur for Foreign Affairs committee <a href="https://www.europarl.europa.eu/meps/en/2341/MICHAEL_GAHLER/home" rel="noopener" target="_blank">Michael Gahler</a> (EPP, DE) said after the vote.<br/><br/>“We have reached a reasonable compromise that will make EDIRPA complementary to another regulation important for the defence sector: the Act in Support of Ammunition Production. We managed to defend the Parliament's priorities, including for projects that will support Ukraine or Moldova. Most importantly, by intensifying the joint procurement of military equipment, EDIRPA will help to strengthen member states’ defence capabilities,” co-rapporteur for Industry, Research and Energy committee <a href="https://www.europarl.europa.eu/meps/en/124891/ZDZISLAW_KRASNODEBSKI/home" rel="noopener" target="_blank">Zdzislaw Krasnodębski</a> (ECR, Poland) said.<br/><br/><strong>Next steps</strong></p>
+<p class="ep-wysiwig_paragraph"><br/>The legislation was adopted with 530 votes to 66, with 32 abstentions. It now requires the Council's formal approval in order to become law.<br/><br/><strong>Background<br/><br/></strong>Russia’s war of aggression against Ukraine has dramatically underlined the need to adapt the European defence industrial and technological base (EDTIB) to structural changes: ramp up EU military R&amp;D, modernise military equipment, and strengthen cooperation between Member States in the framework of procurement in the field of defence, in order to make the Union a relevant global player.</p></div>
+</div>
+</div>
+<!-- Contact -->
+<div aria-labelledby="asideregion480047" class="ep_gridcolumn ep-m_product" data-view1020="6" data-view1200="6" data-view320="4" data-view480="8" data-view640="6" data-view750="10" role="region">
+<div class="ep_gridcolumn-content">
+<div class="ep-a_contacts">
+<h2 class="ep_title" id="asideregion480047">
+<div class="ep-p_text"><span class="ep_name">Contacts:</span><span class="ep_icon"> </span></div>
+</h2>
+<ul>
+<li class="ep_item">
+<div class="ep_card">
+<h3 class="ep_name">
+<span class="ep-p_text"><span class="ep_name">Baptiste CHATAIN</span><span class="ep_icon"> </span></span>
+</h3>
+<div class="ep_information">
+<span class="ep-p_text"><span class="ep_name">Press Officer</span><span class="ep_icon"> </span></span>
+</div>
+<div class="ep_data">
+<div class="ep-p_text ep_hidden"><span class="ep_name">Contact data:</span><span class="ep_icon"> </span></div>
+<ul>
+<li class="ep_phone">
+<a class="ep-p_text" href="tel:(+32) 2 28 40992"><span class="ep_name" title="Phone number"><span class="ep_hidden">Phone number: </span>(+32) 2 28 40992<abbr class="ep_location" title="Brussels"> (BXL)</abbr></span><span class="ep_icon"> </span></a>
+</li>
+<li class="ep_phone">
+<a class="ep-p_text" href="tel:(+33) 3 881 74151"><span class="ep_name" title="Phone number"><span class="ep_hidden">Phone number: </span>(+33) 3 881 74151<abbr class="ep_location" title="Strasbourg"> (STR)</abbr></span><span class="ep_icon"> </span></a>
+</li>
+<li class="ep_portable">
+<a class="ep-p_text" href="tel:(+32) 498 98 13 37"><span class="ep_name" title="Mobile number"><span class="ep_hidden">Mobile number: </span>(+32) 498 98 13 37</span><span class="ep_icon"> </span></a>
+</li>
+<li class="ep_mail">
+<a class="ep-p_text" href="mailto:baptiste.chatain@europarl.europa.eu" title="E-mail: baptiste.chatain@europarl.europa.eu"><span class="ep_name"><span class="ep_hidden">E-mail:  </span>baptiste.chatain@europarl.europa.eu</span><span class="ep_icon"> </span></a>
+</li>
+<li class="ep_mail">
+<a class="ep-p_text" href="mailto:indu-press@europarl.europa.eu" title="E-mail: indu-press@europarl.europa.eu"><span class="ep_name"><span class="ep_hidden">E-mail:  </span>indu-press@europarl.europa.eu</span><span class="ep_icon"> </span></a>
+</li>
+<li class="ep_twitter">
+<a class="ep-p_text" href="http://twitter.com/EP_Industry" target="_blank" title="Open a Twitter account in a new window"><span class="ep_name"><span class="ep_hidden">Twitter account: </span>@EP_Industry</span><span class="ep_icon"> </span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="ep_item">
+<div class="ep_card">
+<h3 class="ep_name">
+<span class="ep-p_text"><span class="ep_name">Elodie LABORIE</span><span class="ep_icon"> </span></span>
+</h3>
+<div class="ep_information">
+<span class="ep-p_text"><span class="ep_name">Press Officer</span><span class="ep_icon"> </span></span>
+</div>
+<div class="ep_data">
+<div class="ep-p_text ep_hidden"><span class="ep_name">Contact data:</span><span class="ep_icon"> </span></div>
+<ul>
+<li class="ep_phone">
+<a class="ep-p_text" href="tel:(+32) 2 28 34077"><span class="ep_name" title="Phone number"><span class="ep_hidden">Phone number: </span>(+32) 2 28 34077<abbr class="ep_location" title="Brussels"> (BXL)</abbr></span><span class="ep_icon"> </span></a>
+</li>
+<li class="ep_portable">
+<a class="ep-p_text" href="tel:(+ 32) 477 99 06 70"><span class="ep_name" title="Mobile number"><span class="ep_hidden">Mobile number: </span>(+ 32) 477 99 06 70</span><span class="ep_icon"> </span></a>
+</li>
+<li class="ep_mail">
+<a class="ep-p_text" href="mailto:elodie.laborie@europarl.europa.eu" title="E-mail: elodie.laborie@europarl.europa.eu"><span class="ep_name"><span class="ep_hidden">E-mail:  </span>elodie.laborie@europarl.europa.eu</span><span class="ep_icon"> </span></a>
+</li>
+<li class="ep_mail">
+<a class="ep-p_text" href="mailto:foreign-press@europarl.europa.eu" title="E-mail: foreign-press@europarl.europa.eu"><span class="ep_name"><span class="ep_hidden">E-mail:  </span>foreign-press@europarl.europa.eu</span><span class="ep_icon"> </span></a>
+</li>
+<li class="ep_twitter">
+<a class="ep-p_text" href="http://twitter.com/EP_Defence" target="_blank" title="Open a Twitter account in a new window"><span class="ep_name"><span class="ep_hidden">Twitter account: </span>@EP_Defence</span><span class="ep_icon"> </span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- ADDITIONAL LINKS COLUMN -->
+<section class="ep_gridcolumn ep-layout_followingscroll" data-view1020="3" data-view1200="3" data-view320="4" data-view480="8" data-view640="8" data-view750="12">
+<div class="ep_gridrow">
+<div class="ep_gridrow-content">
+<div class="ep_gridcolumn" data-view1020="0" data-view1200="0" data-view320="0" data-view480="0" data-view640="1" data-view750="1">
+<div class="ep_gridcolumn-content"> </div>
+</div>
+<div class="ep_gridcolumn" data-view1020="3" data-view1200="3" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridrow">
+<div class="ep_gridrow-content">
+<!-- List of links -->
+<div class="ep_gridcolumn ep-m_product" data-layout1020="border" data-layout1200="border" data-view1020="3" data-view1200="3" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridcolumn-content">
+<div class="ep-a_links">
+<h2 class="ep_title">
+<div class="ep-p_text"><span class="ep_name">Further information</span><span class="ep_icon"> </span></div>
+</h2>
+<ul class="ep_list">
+<li>
+<div class="ep-p_text ep-layout_page">
+<a href="/committees/en/sede/home.html" title="Open in a new page">
+<span class="ep_name">Subcommittee on Security and Defence</span><span class="ep_icon"> </span>
+</a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_page">
+<a href="/committees/en/itre/home/highlights" title="Open in a new page">
+<span class="ep_name">Committee on Industry, Research and Energy</span><span class="ep_icon"> </span>
+</a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_page">
+<a href="/committees/en/afet/home/highlights" title="Open in a new page">
+<span class="ep_name">Committee on Foreign Affairs</span><span class="ep_icon"> </span>
+</a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_page">
+<a href="https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2022/0219(COD)&amp;l=en" target="_blank" title="Open in a new page">
+<span class="ep_name">Procedure file</span><span class="ep_icon"> </span>
+</a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_page">
+<a href="/plenary/en/texts-adopted.html#" title="Open in a new page">
+<span class="ep_name">The adopted report will be available here (12.9.2023)</span><span class="ep_icon"> </span>
+</a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_page">
+<a href="/meps/en/2341/MICHAEL_GAHLER/home" title="Open in a new page">
+<span class="ep_name">Profile of rapporteur Michael Gahler (EPP, DE)</span><span class="ep_icon"> </span>
+</a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_page">
+<a href="/meps/en/124891/ZDZISLAW_KRASNODEBSKI/home" title="Open in a new page">
+<span class="ep_name">Profile of rapporteur Zdzislaw Krasnodębski (ECR, Poland)</span><span class="ep_icon"> </span>
+</a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_page">
+<a href="/thinktank/en/document/EPRS_ATA(2023)751446?&amp;at_campaign=20230908-eprs-newsletter&amp;at_medium=Comansys&amp;at_platform=Email&amp;at_send_date=2023-09-08" title="Open in a new page">
+<span class="ep_name">European Parliament Research Service - European defence industry reinforcement through common procurement act (EDIRPA) (6.9.2023)</span><span class="ep_icon"> </span>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Product reference -->
+<div class="ep_gridcolumn" data-view1020="12" data-view1200="12" data-view320="4" data-view480="8" data-view640="8" data-view750="12">
+<div class="ep_gridrow">
+<div class="ep_gridrow-content">
+<div class="ep_gridcolumn" data-view1020="2" data-view1200="2" data-view320="0" data-view480="0" data-view640="1" data-view750="1">
+<div class="ep_gridcolumn-content"> </div>
+</div>
+<div class="ep_gridcolumn" data-view1020="6" data-view1200="6" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridrow">
+<div class="ep_gridrow-content">
+<div class="ep_gridcolumn ep-m_footer" data-view1020="6" data-view1200="6" data-view320="4" data-view480="8" data-view640="6" data-view750="10">
+<div class="ep_gridcolumn-content">
+<h2 class="ep-a_heading ep_hidden">
+<div class="ep_title">
+<div class="ep-p_text"><span class="ep_name">Product information</span><span class="ep_icon"> </span></div>
+</div>
+</h2>
+<div class="ep-a_reference">
+<div class="ep_reference">
+<span class="ep-p_text"><span class="ep_name"><abbr title="Product reference">Ref.:</abbr></span><span class="ep_icon"> </span></span>
+<span class="ep-p_text"><span class="ep_name">20230911IPR04908</span><span class="ep_icon"> </span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ep_gridrow ep-o_footerpage">
+<div class="ep_gridrow-content">
+<div class="ep_gridcolumn ep-m_product" data-view1020="12" data-view1200="12" data-view320="4" data-view480="8" data-view640="8" data-view750="12">
+<div class="ep_gridcolumn-content">
+<div class="ep-a_share">
+<div>
+<div class="ep_share">
+<h2 class="ep_title">
+<div class="ep-p_text"><span class="ep_name">Share this page:</span><span class="ep_icon"> </span></div>
+</h2>
+<ul>
+<li>
+<div class="ep-p_text ep-layout_facebook">
+<a href="https://www.facebook.com/share.php?u=https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement?xtor%3DAD-78-%5BSocial_share_buttons%5D-%5Bfacebook%5D-%5Ben%5D-%5Bnews%5D-%5Bpressroom%5D-%5Bdefence-industry-procurement-edirpa%5D-" target="_blank" title="Share this page on Facebook"><span class="ep_name">Facebook</span><span class="ep_icon"> </span></a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_twitter">
+<a href="https://twitter.com/intent/tweet?text=MEPs%20vote%20to%20strengthen%20EU%20defence%20industry%20through%20common%20procurement&amp;url=https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement?xtor%3DAD-78-%5BSocial_share_buttons%5D-%5Btwitter%5D-%5Ben%5D-%5Bnews%5D-%5Bpressroom%5D-%5Bdefence-industry-procurement-edirpa%5D-&amp;via=Europarl_EN" target="_blank" title="Share this page on Twitter"><span class="ep_name">Twitter</span><span class="ep_icon"> </span></a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_linkedin">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement?xtor%3DAD-78-%5BSocial_share_buttons%5D-%5Blinkedin%5D-%5Ben%5D-%5Bnews%5D-%5Bpressroom%5D-%5Bdefence-industry-procurement-edirpa%5D%26&amp;title=European%20Parliament&amp;summary=&amp;source=" target="_blank" title="Share this page on LinkedIn"><span class="ep_name">LinkedIn</span><span class="ep_icon"> </span></a>
+</div>
+</li>
+<li>
+<div class="ep-p_text ep-layout_whatsapp">
+<a href="https://api.whatsapp.com/send?text=https://www.europarl.europa.eu/news/en/press-room/20230911IPR04908/meps-vote-to-strengthen-eu-defence-industry-through-common-procurement?xtor%3DAD-78-%5BSocial_share_buttons%5D-%5Bwhatsapp%5D-%5Ben%5D-%5Bnews%5D-%5Bpressroom%5D-%5Bdefence-industry-procurement-edirpa%5D%26" target="_blank" title="Share this page on WhatsApp"><span class="ep_name">WhatsApp</span><span class="ep_icon"> </span></a>
+</div>
+</li>
+</ul>
+</div>
+<div class="ep_links">
+<div class="ep-p_text ep-layout_mail"><a href="/subscription/en"><span class="ep_name">Sign up for mail updates</span></a></div>
+<div class="ep-p_text ep-layout_pdf"><a href="/pdfs/news/expert/2023/9/press_release/20230911IPR04908/20230911IPR04908_en.pdf"><span class="ep_name">PDF version</span><span class="ep_icon"> </span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<footer id="website-footer" role="contentinfo">
+<div class="ep_footer-relatedlinks">
+<div class="ep_websitelinks" id="website-links">
+<h2 class="ep_title" id="website-links-title">
+<span class="ep_name">News</span>
+<span class="ep_icon"> </span>
+</h2>
+<div aria-controls="website-links-content" class="ep_menu-access ep_openaccess" id="website-links-access" role="tab">
+<a href="#website-links">
+<span class="ep_name">View menu: News</span>
+<span class="ep_icon"> </span></a>
+</div>
+<div class="ep_list ep-layout_category" id="website-links-content">
+<div>
+<div class="ep_category">
+<h3 class="ep_subtitle" id="website-links-category1-title">
+<span class="ep_name">Parliament in your country</span>
+<span class="ep_icon"> </span>
+</h3>
+<ul aria-labelledby="website-links-category1-title">
+<li class="ep_item">
+<a class="ep_button" href="/unitedkingdom" target="_blank">
+<span class="ep_hidden">Open in a new page</span>
+<span class="ep_name">London</span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="/ireland" target="_blank">
+<span class="ep_hidden">Open in a new page</span>
+<span class="ep_name">Dublin</span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="/unitedkingdom/en/edinburgh-office" target="_blank">
+<span class="ep_hidden">Open in a new page</span>
+<span class="ep_name">Edinburgh</span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="/malta" target="_blank">
+<span class="ep_hidden">Open in a new page</span>
+<span class="ep_name">Valletta</span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="/unitedstates" target="_blank">
+<span class="ep_hidden">Open in a new page</span>
+<span class="ep_name">Washington</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="ep_category">
+<h3 class="ep_subtitle" id="website-links-category2-title">
+<span class="ep_name">Tools</span>
+<span class="ep_icon"> </span>
+</h3>
+<ul aria-labelledby="website-links-category2-title">
+<li class="ep_item">
+<a class="ep_button" href="/oeil/home/home.do">
+<span class="ep_hidden">Open in a new page</span>
+<span class="ep_name">Legislative Observatory</span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="https://multimedia.europarl.europa.eu/en" target="_blank">
+<span class="ep_hidden">Go to the page</span>
+<span class="ep_name">Multimedia Centre</span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="https://ec.europa.eu/avservices/ebs/schedule.cfm?sitelang=en" target="_blank">
+<span class="ep_hidden">Open in a new page</span>
+<span class="ep_name">EbS</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="ep_category">
+<h3 class="ep_subtitle" id="website-links-category3-title">
+<span class="ep_name">The President of the European Parliament</span>
+<span class="ep_icon"> </span>
+</h3>
+<ul aria-labelledby="website-links-category3-title">
+<li class="ep_item">
+<a class="ep_button" href="/the-president/en/">
+<span class="ep_hidden">Open in a new page</span>
+<span class="ep_name">European Parliament President’s website</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="ep_menu-access ep_closeaccess">
+<a href="#website-links-access" title="Hide menu">
+<span class="ep_name">Hide menu: News</span>
+<span class="ep_icon"> </span>
+</a>
+</div>
+</div>
+<div class="ep_europarllinks" id="europarl-links">
+<h2 class="ep_title" id="europarl-links-title">
+<span class="ep_name">European Parliament</span>
+<span class="ep_icon"> </span>
+</h2>
+<div aria-controls="europarl-links-content" class="ep_menu-access ep_openaccess" id="europarl-links-access" role="tab">
+<a href="#europarl-links">
+<span class="ep_name">View menu: European Parliament</span>
+<span class="ep_icon"> </span>
+</a>
+</div>
+<div class="ep_list">
+<ul aria-labelledby="europarl-links-title" id="europarl-links-content">
+<li class="ep_item">
+<a class="ep_button" href="/news/en">
+<span class="ep_hidden">Go to the page</span>
+<span class="ep_name">News</span><span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="/meps/en/home">
+<span class="ep_hidden">Go to the page</span>
+<span class="ep_name">MEPs</span><span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="/about-parliament/en">
+<span class="ep_hidden">Go to the page</span>
+<span class="ep_name">About Parliament</span><span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="/plenary/en">
+<span class="ep_hidden">Go to the page</span>
+<span class="ep_name">Plenary</span><span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="/committees/en">
+<span class="ep_hidden">Go to the page</span>
+<span class="ep_name">Committees</span><span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button" href="/delegations/en">
+<span class="ep_hidden">Go to the page</span>
+<span class="ep_name">Delegations</span><span class="ep_icon"> </span>
+</a>
+</li>
+</ul>
+</div>
+<div class="ep_menu-access ep_closeaccess">
+<a href="#europarl-links-access" title="Hide menu"><span class="ep_name">Hide menu: European Parliament</span><span class="ep_icon"> </span></a></div>
+</div>
+</div>
+<span class="ep_footer-separator"> </span>
+<div class="ep_footer-otherlinks">
+<div class="ep_sociallinks" id="socialmedia">
+<h2 class="ep_hidden" id="socialmedia-title">
+<span class="ep_name">The Parliament on social media</span>
+<span class="ep_icon"> </span>
+</h2>
+<div class="ep_list">
+<ul aria-labelledby="socialmedia-title">
+<li class="ep_item">
+<a class="ep_button ep_facebook" href="https://www.facebook.com/europeanparliament" target="_blank">
+<span class="ep_name">Check out Parliament on Facebook</span>
+<span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button ep_twitter" href="https://twitter.com/Europarl_en" target="_blank">
+<span class="ep_name">Check out Parliament on Twitter</span>
+<span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button ep_flickr" href="https://www.flickr.com/photos/european_parliament/" target="_blank">
+<span class="ep_name">Check out Parliament on Flickr</span>
+<span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button ep_linkedin" href="https://www.linkedin.com/company/european-parliament" target="_blank">
+<span class="ep_name">Check out Parliament on LinkedIn</span>
+<span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button ep_youtube" href="https://www.youtube.com/user/EuropeanParliament" target="_blank">
+<span class="ep_name">Check out Parliament on YouTube</span>
+<span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button ep_instagram" href="https://instagram.com/europeanparliament" target="_blank">
+<span class="ep_name">Check out Parliament on Instagram</span>
+<span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button ep_pinterest" href="https://www.pinterest.com/epinfographics/" target="_blank">
+<span class="ep_name">Check out Parliament on Pinterest</span>
+<span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button ep_snapchat" href="https://www.snapchat.com/add/europarl" target="_blank">
+<span class="ep_name">Check out Parliament on Snapchat</span>
+<span class="ep_icon"> </span>
+</a>
+</li>
+<li class="ep_item">
+<a class="ep_button ep_reddit" href="https://www.reddit.com/r/europeanparliament/" target="_blank">
+<span class="ep_name">Check out Parliament on Reddit</span>
+<span class="ep_icon"> </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<!-- COMPOSANT "MANDATORY LINKS" -->
+<div class="ep_mandatorylinks" id="informationlinks">
+<h2 class="ep_hidden" id="informationlinks-title"><span class="ep_name">Information links</span><span class="ep_icon"> </span></h2>
+<div class="ep_list">
+<ul aria-labelledby="informationlinks-title">
+<li class="ep_item"><a class="ep_button" href="/portal/en/contact"><span class="ep_hidden">Go to the page</span><span class="ep_name">Contact</span><span class="ep_icon"> </span></a></li>
+<li class="ep_item"><a class="ep_button" href="/at-your-service/en/stay-informed/rss-feeds"><span class="ep_hidden">Go to the page</span><span class="ep_name">RSS</span><span class="ep_icon"> </span></a></li>
+<li class="ep_item"><a class="ep_button" href="/portal/en/sitemap"><span class="ep_hidden">Go to the page</span><span class="ep_name">Sitemap</span><span class="ep_icon"> </span></a></li>
+<li class="ep_item"><a class="ep_button" href="/legal-notice/en"><span class="ep_hidden">Go to the page</span><span class="ep_name">Legal notice</span><span class="ep_icon"> </span></a></li>
+<li class="ep_item"><a class="ep_button" href="/privacy-policy/en/"><span class="ep_hidden">Go to the page</span><span class="ep_name">Privacy policy</span><span class="ep_icon"> </span></a></li>
+<li class="ep_item"><a class="ep_button" href="/portal/en/accessibility"><span class="ep_hidden">Go to the page</span><span class="ep_name">Accessibility</span><span class="ep_icon"> </span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!-- Backdrop / Gray Overlay for compact menu opening-->
+<div class="back-overlay"></div>
+<script>
+            (function rewriteUrlIfNeeded() {
+                function getHash(url) {
+                    return url.hash !== '' && document.getElementById(url.hash.slice(1)) ?
+                        url.hash :
+                        '';
+                }
+
+                function rewriteUrl(currentUrl, baseUrl) {
+                    // ensure that hash is present only if it actually exists
+                    const url = new URL(currentUrl);
+                    return `${baseUrl}${url.search}${getHash(url)}`;
+                }
+
+                // pre-condition: #dev_product_url ALWAYS exists see <input ...> above.
+                const productUrl = document.getElementById('dev_product_url').value;
+
+                if (productUrl === '') {
+                    return;
+                }
+
+                const newUrl = rewriteUrl(window.location.href, productUrl);
+
+                if (newUrl !== window.location.href) {
+                    window.history.replaceState(null, '', newUrl)
+                }
+            }())
+        </script>
+<script type="text/javascript">
+            // safari blinking workaround. Cf jira ENG-32999 & ENG-33001
+        </script>
+</body>
+</html>
