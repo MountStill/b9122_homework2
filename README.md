@@ -25,8 +25,8 @@ The repository contains the following files:
 
    The web crawler code that we covered in class.
 
-4. Text files
+4. sample_extracted_documents
 
    1_1.txt to 1_10.txt and 2_1.txt to 2_10.txt
 
-   Sample extracted documents.
+   Sample files. The actual output files can be different as the United Nations or the European Parliament update press releases.
