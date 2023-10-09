@@ -24,3 +24,9 @@ The repository contains the following files:
 3. webcrawler.py
 
    The web crawler code that we covered in class.
+
+4. Text files
+
+   1_1.txt to 1_10.txt and 2_1.txt to 2_10.txt
+
+   Sample extracted documents.
