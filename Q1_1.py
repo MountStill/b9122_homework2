@@ -1,13 +1,13 @@
 from bs4 import BeautifulSoup
 import urllib.request
 
-
+# here is the seed url
 seed_url = "https://press.un.org/en"
 
 urls = [seed_url]  # queue of urls to crawl
 seen = [seed_url]  # stack of urls seen so far
 opened = []  # we keep track of seen urls so that we don't revisit them
-saved = []  # saved urls that are press release and contain the word "crisis"
+saved = []  # saved urls that are press releases and contain the word "crisis"
 
 # here is the anchor for page and target word for content check
 anchor = '<a href="/en/press-release" hreflang="en">Press Release</a>'
@@ -32,10 +32,9 @@ while len(urls) > 0 and len(saved) < maxNumUrl:
         print(ex)
         continue  # skip code below
 
-    # IF URL OPENS, CHECK WHICH URLS THE PAGE CONTAINS
-    # ADD THE URLS FOUND TO THE QUEUE url AND seen
-    soup = BeautifulSoup(webpage, "html.parser")  # creates object press_room_soup
-    # Put child URLs into the stack
+    # creates object soup
+    soup = BeautifulSoup(webpage, "html.parser")
+    # put child URLs into the stack
     for tag in soup.find_all("a", href=True):  # find tags with links
         childUrl = tag["href"]  # extract just the link
         o_childurl = childUrl
@@ -46,11 +45,18 @@ while len(urls) > 0 and len(saved) < maxNumUrl:
 
     # check if the page is press release
     if anchor in str(soup):
+        # collect all the necessary parts of the press release
+        try:
+            press_release_headline = soup.find("h1", class_="page-header").text.lower()
+        except:
+            press_release_headline = ""
+        try:
+            press_release_paragraphs = soup.find(
+                class_="field field--name-body field--type-text-with-summary field--label-hidden field__item"
+            ).text.lower()
+        except:
+            press_release_paragraphs = ""
         # check if the headline and paragraphs contain the word "crisis"
-        press_release_headline = soup.find("h1", class_="page-header").text.lower()
-        press_release_paragraphs = soup.find(
-            class_="field field--name-body field--type-text-with-summary field--label-hidden field__item"
-        ).text.lower()
         if (
             target_word in press_release_headline
             or target_word in press_release_paragraphs
@@ -66,6 +72,7 @@ while len(urls) > 0 and len(saved) < maxNumUrl:
                 file.write(str(soup))
                 savedUrlCounter += 1
 
+# print summary
 print("\nSummary:")
 print(
     "num. of URLs seen = %d, scanned = %d, and saved = %d"

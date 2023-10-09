@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib.request
 
-
+# here is the meta url for press room
 meta_url = "https://www.europarl.europa.eu/news/en/press-room/page/<page_number>"
 
 urls = []  # queue of press release urls to crawl
@@ -37,16 +37,16 @@ while len(saved) < maxNumUrl:
         print(ex)
         continue  # skip code below
 
-    press_room_soup = BeautifulSoup(
-        press_room_webpage, "html.parser"
-    )  # creates object press_room_soup
-    # Put child URLs into the stack
+    # creates object press_room_soup
+    press_room_soup = BeautifulSoup(press_room_webpage, "html.parser")
+    # put press release URLs into the stack
     for tag in press_room_soup.find_all("a", href=True):  # find tags with links
         press_release_url = tag["href"]  # extract just the link
         if press_release_url not in seen:
             urls.append(press_release_url)
             seen.append(press_release_url)
 
+    # go through each press release in the current page of press room
     while urls and len(saved) < maxNumUrl:
         try:
             curr_url = urls.pop(0)
@@ -62,10 +62,12 @@ while len(saved) < maxNumUrl:
             print(ex)
             continue  # skip code below
 
+        # creates object press_release_soup
         press_release_soup = BeautifulSoup(press_release_webpage, "html.parser")
         # check if the page is plenary session
         if anchor in str(press_release_soup):
-            # check if the headline and paragraphs contain the word "crisis"
+            # collect all the necessary parts of the press release
+            # some paragraphs have two parts: text_0 and text_1 below
             try:
                 press_release_title = press_release_soup.find(
                     "h1", class_="ep_title"
@@ -90,6 +92,8 @@ while len(saved) < maxNumUrl:
                 ].text.lower()
             except:
                 press_release_text_1 = ""
+
+            # check if the title, fact, and paragraphs contain the word "crisis"
             if (
                 target_word in press_release_title
                 or target_word in press_release_fact
@@ -107,6 +111,7 @@ while len(saved) < maxNumUrl:
                     file.write(str(press_release_soup))
                     savedUrlCounter += 1
 
+# print summary
 print("\nSummary:")
 print(
     "num. of URLs seen = %d, scanned = %d, and saved = %d"
