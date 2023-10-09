@@ -30,3 +30,11 @@ The repository contains the following files:
    1_1.txt to 1_10.txt and 2_1.txt to 2_10.txt
 
    Sample files. The actual output files can be different as the United Nations or the European Parliament update press releases.
+
+5. url.txt
+
+   The url that directs to the current repository.
+
+6. screenshot.png
+
+   The screenshot of the History Page of GitHub Desktop.
